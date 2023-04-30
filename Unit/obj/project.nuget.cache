@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e4AfUXP2zDfRQqnc7Tsz4wGzED/rEJjmTJES7nsDZVALnNHZx4yElh9GwKoA1HuzJa8CzTsLUn1z7QipVpuZUg==",
+  "dgSpecHash": "X0vlXMxw2GJTEZStg3Dy8rw3E4z0ZcxXfZQlx/2uJfSAOKYN7WbjWQHfVWQ8P7k4sihnqMpikGz5ZQMwDH/JJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EduarLeonardoSánchez\\source\\repos\\Gestion\\Unit\\Unit.csproj",
+  "projectFilePath": "C:\\Api\\gestion\\Unit\\Unit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EduarLeonardoSánchez\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\EduarLeonardoSánchez\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
