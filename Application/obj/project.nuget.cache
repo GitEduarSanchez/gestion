@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8hNq4IfQgVzpt6ffHCldJkS8LH7acqHZ9gzFDcbgCVarEPWYw1Wqc8qk+Ze1aes6Re5tn0mTUZrUvZFofBso9A==",
+  "dgSpecHash": "RBkDt8OjusHlTzEdL+NSBRq0fU08hSpgKk4hVBz+Fa48QSyN2hkReMLNm1ObHfigYo8WpaH4pwcQwIVlPV77Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EduarLeonardoSánchez\\source\\repos\\Gestion\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Api\\gestion\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
